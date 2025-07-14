@@ -12,6 +12,9 @@
 		3A4B5C6D7E8F9A0B1C2D3E4F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A4B5C6D7E8F9A0B1C2D3E4E /* ViewController.swift */; };
 		4A5B6C7D8E9F0A1B2C3D4E5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A5B6C7D8E9F0A1B2C3D4E5E /* Main.storyboard */; };
 		5A6B7C8D9E0F1A2B3C4D5E6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A6B7C8D9E0F1A2B3C4D5E6E /* Assets.xcassets */; };
+		7A8B9C0D1E2F3A4B5C6D7E8F /* UITheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A8B9C0D1E2F3A4B5C6D7E8E /* UITheme.swift */; };
+		8A9B0C1D2E3F4A5B6C7D8E9F /* ItemAssessmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9B0C1D2E3F4A5B6C7D8E9E /* ItemAssessmentViewController.swift */; };
+		9A0B1C2D3E4F5A6B7C8D9E0F /* OrnaImageProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A0B1C2D3E4F5A6B7C8D9E0E /* OrnaImageProcessor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		4A5B6C7D8E9F0A1B2C3D4E5E /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		5A6B7C8D9E0F1A2B3C4D5E6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6A7B8C9D0E1F2A3B4C5D6E7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A8B9C0D1E2F3A4B5C6D7E8E /* UITheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITheme.swift; sourceTree = "<group>"; };
+		8A9B0C1D2E3F4A5B6C7D8E9E /* ItemAssessmentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemAssessmentViewController.swift; sourceTree = "<group>"; };
+		9A0B1C2D3E4F5A6B7C8D9E0E /* OrnaImageProcessor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrnaImageProcessor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +55,9 @@
 				1A2B3C4D5E6F7A8B9C0D1E2E /* AppDelegate.swift */,
 				2A3B4C5D6E7F8A9B0C1D2E3E /* SceneDelegate.swift */,
 				3A4B5C6D7E8F9A0B1C2D3E4E /* ViewController.swift */,
+				7A8B9C0D1E2F3A4B5C6D7E8E /* UITheme.swift */,
+				8A9B0C1D2E3F4A5B6C7D8E9E /* ItemAssessmentViewController.swift */,
+				9A0B1C2D3E4F5A6B7C8D9E0E /* OrnaImageProcessor.swift */,
 				4A5B6C7D8E9F0A1B2C3D4E5E /* Main.storyboard */,
 				5A6B7C8D9E0F1A2B3C4D5E6E /* Assets.xcassets */,
 				6A7B8C9D0E1F2A3B4C5D6E7E /* Info.plist */,
@@ -137,6 +146,9 @@
 				3A4B5C6D7E8F9A0B1C2D3E4F /* ViewController.swift in Sources */,
 				1A2B3C4D5E6F7A8B9C0D1E2F /* AppDelegate.swift in Sources */,
 				2A3B4C5D6E7F8A9B0C1D2E3F /* SceneDelegate.swift in Sources */,
+				7A8B9C0D1E2F3A4B5C6D7E8F /* UITheme.swift in Sources */,
+				8A9B0C1D2E3F4A5B6C7D8E9F /* ItemAssessmentViewController.swift in Sources */,
+				9A0B1C2D3E4F5A6B7C8D9E0F /* OrnaImageProcessor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
